@@ -8,15 +8,14 @@ process, our style, and what makes our game truly special.
 Voice and Style:
 In the realm of game development, it's essential to bring your unique voice and style to the table.
 We are currently making all the elements.
-![Tactical_Tower_Style_Tile](https://github.com/Jayj2/Tower-Defense-Blog-post-/assets/37864709/4b28fd07-f6a5-4c02-8522-85a40a054f8f)
-
-
-Does the post have your voice and style?
  For the tower defense game we are going with the name Tactical Defense for the game. While are team name will be called Ctrl Freaks!
 We are just starting to discuss the stlye of the game. 
+![Tactical_Tower_Style_Tile](https://github.com/Jayj2/Tower-Defense-Blog-post-/assets/37864709/4b28fd07-f6a5-4c02-8522-85a40a054f8f)
 
-Is it on-brand?
-Yes, I've created some context for with.
+"Tactical Defense" is more than just a game; it's an immersive journey into a vivid fantasy world merged with gritty realism.
+Our game embraces the essence of this unique blend, where magic and technology coexist seamlessly. 
+Expect mystical hues, earthy tones, and ethereal light to transport you into our game's universe.
+
 
 Were visual aids (images, video) used where needed?
 Yes, I made logo's for the game and our team!
@@ -30,5 +29,8 @@ in touch and use all the resources availible!
 Here's the link!
 https://discord.gg/hv6nrUmn
 
-Title: "Tactical Defense: Crafting a Tower Defense Game"
+
+Our team has been hard at work, brainstorming ideas and discussing the style and 
+mechanics of "Tactical Defense." We're excited to share our progress and updates with you in the coming weeks. Stay tuned for more!
+
 
